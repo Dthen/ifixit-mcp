@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Hermes plans (kept out of the repo)
+.hermes/
+
+# Misc
+.DS_Store
+.pytest_cache/
+.coverage
